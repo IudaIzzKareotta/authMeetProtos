@@ -1,4 +1,4 @@
-module github.com/IudaIzzKareotta/authMeetprotos
+module github.com/IudaIzzKareotta/authMeetProtos
 
 go 1.23.4
 
